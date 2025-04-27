@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Let's Build Your Dream Website — Fast and Beautiful!
       color: text-dark
       type: TitleBlock
     subtitle: 'Building Fast, Beautiful, SEO-Ready Websites'
